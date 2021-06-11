@@ -1,0 +1,19 @@
+#headingGroup h1 {
+	font-weight: 100;
+	font-size: 3rem;
+
+  }
+
+   body {
+   	background-color: skyblue;
+   }
+
+  #Welcome {
+  	font-size: 4rem;
+  	color: #EA1C2c;
+  }
+  
+  jumbotron {
+      margin-bottom: 0;
+  }
+  
