@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="en">
+  <head>
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet"  href="style.css">
+      
+<!-- NAVBAR SECTION -->
+      
+<nav class="navbar fixed-top navbar-expand-md navbar-dark text-light justify-content-end">
+  <a class="navbar-brand" href="#"></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav">
+      <a class="nav-item nav-link active" href="">Home <span class="sr-only">(current)</span></a>
+      <a class="nav-item nav-link" href="#about"> About Me</a>
+      <a class="nav-item nav-link" href="#certified ">Credentials</a>
+      <a class="nav-item nav-link" href="#" tabindex="-1">Sample Web Projects</a>
+    </div>
+  </div>
+</nav>   
+    <div class="bg-info">
+       <img src="https://img77.uenicdn.com/image/upload/v1564671267/service_images/shutterstock_613120784.jpg" class="card-img-top" alt="...">
+    </div>
+      <style>
+          body {
+              background-image: url(href="https://starwarsblog.starwars.com/wp-content/uploads/2020/04/star-wars-backgrounds-38-1.jpg")
+          }
+      </style>
+      </head>
+
+<!-- ++++++++++++++++++++Introduction +++++++++++++++++++++++++-->
+<body>
+  <div class='bg-info'>
+    
+    
+<!-- ++++++++++++++++++++Home Section (jumbotron) +++++++++++++++++++++++++-->
+    <section class="container-fluid">
+    
+    <div class='row'>
+    
+    <div class="jumbotron bg-info text-white col-md-6 justify-content-end">
+  <h1 class="display-4">ARCHER</h1>
+  <h2 class="text-danger">WEB DESIGN & DEVELOPMENT</h2>
+  <p class="lead">
+<p>Why hire me? </p>  
+   <p>   I am committed to getting you online the way you want for a price you can afford. Based in Genesee County, I know that there are a huge number of  web designers offering their services today, which can make it difficult to decide on which firm or freelancer to go with. Rest assured: I can help you create a truly unique online presence by crafting a bespoke website for you or your business. If you'd like to talk to me a bit more about your project or idea, please email or call/text me.</p>
+  <hr class="my-4">
+  <p>I have sample code projects available on github and codepen. Click the links below to be directed.</p>
+  <a class="btn btn-primary btn-md" href="https://github.com/MicroCrusher" role="button">VIEW MY GITHUB</a>
+  <a class="btn btn-primary btn-md" href="https://codepen.io/MicroCrusher" role="button">VIEW MY CODEPEN</a>
+</div>
+   
+ 
+<div class="col-md-6 bg-info ">
+<div class="card">
+  <div class="card-body bg-dark text-white">
+ <!--   <h5 class="card-title text-success">TODAY'S QUOTE</h5> -->
+    <p class="card-text text-info">Success is usually the culmination of controlling failure. - Sylvester Stallone
+    </p>
+    
+  </div>
+  
+  <img src="https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=393&q=80" class="card-img-top" alt="">
+</div>
+   </div>
+    </div>
+     
+    </section>   
+    <!-- ++++++++++++++++++++ABOUT SECTION (cards+++++++++++++++++++++++++-->    
+        
+<section id="about" class="container-fluid bg-info">
+
+  <div class="row d-flex justify-content-center align-items-start">
+    <div class="col-md-4">
+       
+     <div class="card">
+        
+    <img src="https://scontent.fdet1-2.fna.fbcdn.net/v/t1.0-9/10696284_373377729476709_7768437098857289422_n.jpg?_nc_cat=111&_nc_eui2=AeG8xsG5zH0BJxECkM3v_FNAL_9oLsRF3y1fiOpHWJjtHyKRExR036l_PHy9Rh49kombKAXHj3YuYieigqDIbsMVoHZEeGm4h1-9f_9PZ3VPmg&_nc_ohc=tTecUX93F-wAX8yAXXi&_nc_ht=scontent.fdet1-2.fna&oh=064245a769cb15699261c651a33fc4ef&oe=5ED9FE3D" class="card-img-top" alt="...">
+  <div class="card-body bg-primary text-white">
+    <h5 class="card-title">David Archer</h5>
+    <p class="card-text">Web Developer</p>
+  </div>
+ <!-- <ul class="list-group list-group-flush">
+    <li class="list-group-item bg-info text-white">Associate's Computer Science-UoPeople</li>
+    <li class="list-group-item bg-info text-white">Responsive Web Desing-freeCodeCamp</li>
+    <li class="list-group-item bg-info text-white">Computer Programming-Bryan Institute</li>
+  </ul>          
+  <div class="card-body bg-dark justify-content-end">
+    <a href="https://www.freecodecamp.org/certification/microcrusher/responsive-web-design" class="card-link text-white">View Responsive Web Design Certification</a>
+    <a href="https://www.freecodecamp.org/certification/microcrusher/javascript-algorithms-and-data-structures" class="card-link text-white">View Javascript Certification</a>
+  </div> -->
+</div>
+</div> 
+
+
+<div class="col-md-6 m-t-3">
+<div class="card align-items-bottom">
+
+<!--  <img src="..." class="card-img-top" alt="...">-->
+
+  <div class="card-body bg-info text-white">
+    <h5 class="card-title">Services Offered</h5>
+    <p class="card-text"> I specialize in providing web solutions and solving coding issues. Build your website from the ground up or update an exisiting one, I take pride and joy in providing quality work for an affordable fee.
+    </p>
+  </div>
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item bg-secondary text-white">WEB DEVELOPMENT</li>
+    <li class="list-group-item bg-secondary text-white">WEB DESIGN</li>
+    <li class="list-group-item bg-secondary text-white">WEB MAINTENANCE</li>
+  </ul>
+  <div class="card-body">
+    <a href="#" class="card-link">Hire Me</a>
+    <a href="#" class="card-link">Contact Me</a>
+  </div>
+</div>
+</div>
+</div>
+
+      </section>
+<br> <br>
+
+    <!--  ********** Certificates Section ********* -->
+
+    <!-- 1. Responsive Web Design -->
+
+   
+
+      <img src="https://starwarsblog.starwars.com/wp-content/uploads/2020/04/star-wars-backgrounds-38-1.jpg" alt="...">
+    <section id="certified">
+      <h1 id="credentials">MY CREDENTIALS</h1>
+   <ul class="list-group list-group-flush">
+    <li class="list-group-item bg-info text-white"></li>
+    <li class="list-group-item bg-info text-white">I have certificates in Responsive Web Design & Javascript. My coding skills include, HTML, CSS3, Bootsrap4, Java, Python, & Javascript. Currently pursuing degree in computer science at University of the People</li>
+    <li class="list-group-item bg-info text-white"></li>
+  </ul>          
+  <div class="card-body bg-dark justify-content-end">
+    <a href="https://www.freecodecamp.org/certification/microcrusher/responsive-web-design" class="card-link text-white">View Responsive Web Design Certification</a>
+    <a href="https://www.freecodecamp.org/certification/microcrusher/javascript-algorithms-and-data-structures" class="card-link text-white">View Javascript Certification</a>
+  </div> 
+
+</section>
+
+
+
+
+  <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+
+
+</body>
+</main>
+</html>
